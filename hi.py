@@ -1,23 +1,23 @@
 import math
 print(math.floor(23.4))
-# a=1
-# b=2
-# c=a+b
-# print(type(c))
-# d="isfkaddms"
-# print(type(d))
-# a="this is my python code"
-# print(a.capitalize())
-# print(a.find("my"))
-# print(a.upper())
-# print(a.lower())
+a=1
+b=2
+c=a+b
+print(type(c))
+d="isfkaddms"
+print(type(d))
+a="this is my python code"
+print(a.capitalize())
+print(a.find("my"))
+print(a.upper())
+print(a.lower())
 # list
-# item=["shashank",7.7,[7,78]]
-# item[2][1]=67
-# print(item)
+item=["shashank",7.7,[7,78]]
+item[2][1]=67
+print(item)
 # tuple 
-# tup1 =(12,123,32)
-# print(tup1)
+tup1 =(12,123,32)
+print(tup1)
 # dictionary
 dict1={}
 dict1['virat']= 100
